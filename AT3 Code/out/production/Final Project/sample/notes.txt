@@ -1,0 +1,20 @@
+todo
+display dialog to say true or found when searching
+
+save user accounts and load when program starts
+
+
+
+save outputs to csv file
+
+
+done
+add button takes inputs and calculates calories, puts fields into a calorie object, puts calorie object into linkedlist and displays in box
+
+merge sort, sorts by calories, re displays sorted calorie objects
+
+logon with admin account using hashing
+
+successful logon calls function to close first visible stage and show second (main) stage
+
+search button calls binary search function
